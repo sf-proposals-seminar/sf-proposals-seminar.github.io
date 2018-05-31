@@ -32,7 +32,7 @@
 
 日時: 2018 5/31(木) 11:00~
 
-発表資料 (パスワード制限あり):pdf 
+発表資料 (パスワード制限あり):[pdf](data/Tokuda_proposal_semi_20180531_Densecore_Taurus_01_red_pass.pdf) 
 
 参加者: 徳田, 大西, 原田, 高 (大阪府立大学)
 
