@@ -129,6 +129,8 @@
 
 発表資料 (パスワード制限あり): [pdf](data/Tokuda_proposal_semi_Densecore_Taurus_02_redpass.pdf)
 
+参加者: 徳田, 原田, 杉内, 大西 (大阪府大), 林, 西村, 藤田, 柘植, 藤城 (名古屋大), 南谷, 鳥居 (NRO)
+
 ## 第9回
 
 発表者: 藤田真司
