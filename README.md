@@ -121,11 +121,11 @@
 
 発表者: 徳田一起
 
-タイトル: 野辺山45m鏡を用いたN2D+ 輝線によるおうし座分子雲コアサーベイ(第1回のアップデート)
+タイトル: A complete H13CO+, N2H+, and N2D+ survey of dense cores in Taurus with the NRO 45m telescope (第1回のアップデート)
 
 日時: 2018 8/2(木) 10:30~
 
-発表資料: pdf 
+発表資料 (パスワード制限あり): [pdf](data/Tokuda_proposal_semi_Densecore_Taurus_02_redpass.pdf)
 
 ## 第9回
 
