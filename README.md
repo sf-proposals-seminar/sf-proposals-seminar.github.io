@@ -135,9 +135,13 @@
 
 発表者: 西村淳
 
-タイトル: FUGIN 拡張 (L=50-70) : Orion spur と Sagittarius arm の関係
+タイトル: Local spurと星形成
 
 日時: 2018 8/9(木) 10:30~
+
+発表資料: [pdf](data/20180809-SF-seminar-nishimura_red.pdf)
+
+参加者: 徳田, 原田, 後藤 (府大), 西合 (NAOJ), 鳥居、南谷 (NRO), 立原, 佐野, 西村, 藤田, 河野, 柘植, 山根, 林
 
 
 ## 第10回
