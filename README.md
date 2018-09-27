@@ -169,10 +169,4 @@
 参加者: 
 
 *-*-*-*-*-*-*-*-*-*-*-*-*-*-
-<--
-## Links
-- [ads](http://ads.nao.ac.jp/abstract_service.html)
 
-
-[編集ページ](https://github.com/sf-proposals-seminar/sf-proposals-seminar.github.io)
--->
