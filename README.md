@@ -169,7 +169,7 @@
 参加者: 
 
 *-*-*-*-*-*-*-*-*-*-*-*-*-*-
-
+<--
 ## Links
 - [ads](http://ads.nao.ac.jp/abstract_service.html)
 
