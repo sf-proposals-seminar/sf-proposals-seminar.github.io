@@ -171,7 +171,7 @@
 
 発表者: 佐野栄俊
 
-タイトル: ALMA によるSNR関連の研究 (仮)
+タイトル: Molecular clouds associated with the SNR in the Small Magellanic Cloud
 
 日時: 2018 11/27(火) 16:00~
 
